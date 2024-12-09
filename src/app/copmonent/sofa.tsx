@@ -2,7 +2,7 @@
 'use client'
 import Image from "next/image";
 import React from "react";
-import single_seater from "@/public/single_seater.png"
+
 
 const Sofa: React.FC = () => {
     return (
